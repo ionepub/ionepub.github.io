@@ -2,7 +2,7 @@ var CONFIG = {
     owner        : 'ionepub',
     repo         : 'ionepub.github.io',
     duoshuo      : 'ioneblog',
-    baiduAnaly   : '33ad3310cedb8c9c1788da527686f49f',
+    baiduAnaly   : '6917e4c5a39811dc77df111fcc5e1674',
     access_token : 'eca89e0fd564088457a2957f350b12ecdc4b8bc7'
 };
 
