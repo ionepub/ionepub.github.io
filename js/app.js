@@ -262,7 +262,7 @@
      * 添加百度统计
      */
     function addBaiduAnaly() {
-        if (document.domain.indexOf('github.io') > -1) {
+        if (document.domain.indexOf('github.io') > -1 || document.domain.indexOf('i-m.pub') > -1 ) {
             var _hmt = _hmt || [];
             (function() {
                 var hm = document.createElement('script');
