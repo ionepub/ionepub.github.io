@@ -315,3 +315,7 @@ blockquote{
 	color: #777;
 	border-left: 0.25em solid #ddd;
 }
+
+hr{
+	color:#eee;
+}
