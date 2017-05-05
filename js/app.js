@@ -221,7 +221,7 @@
         $('#article').html(marked(post.body));
         // addVisits(post.number);
         highlight();
-        toggleDuoshuoComments('#ds', post.number);
+        // toggleDuoshuoComments('#ds', post.number);
     }
 
     /**
